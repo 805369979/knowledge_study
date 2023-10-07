@@ -1,1 +1,6 @@
+server:
+  port: 8888
 
+coupons:
+  items: COUPONS1, COUPONS2
+  names: COUPONS1, COUPONS2
